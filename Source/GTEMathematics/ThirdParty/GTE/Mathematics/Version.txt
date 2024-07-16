@@ -1,0 +1,2 @@
+GitHub : https://github.com/davideberly/GeometricTools/commits/master/
+commit SHA : a7e69d6
